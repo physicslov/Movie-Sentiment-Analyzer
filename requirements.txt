@@ -1,7 +1,5 @@
 pip>=23.1
 tensorflow==2.19.0
-...
-tensorflow==2.19.0
 numpy
 pandas
 tensorboard
